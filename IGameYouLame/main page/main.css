@@ -1,25 +1,15 @@
-.menubar {
-  display: flex;
-  padding: 0px 20px;
-  justify-content: space-evenly;
-}
-.intro {
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-}
 .mainheader {
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: blueviolet;
+  color: rgb(0, 0, 0);
 }
 .maintitle {
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: #8a2be2;
+  color: #000000;
 }
 .menu {
   list-style: none;
-  border-color: blueviolet;
+  border-color: rgb(0, 0, 0);
 }
 .login {
   color: black;
